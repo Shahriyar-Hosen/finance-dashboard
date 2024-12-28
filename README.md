@@ -4,14 +4,14 @@
 
 ![Track your income and expenses with Finance.](/.github/images/img_main.png "Track your income and expenses with Finance.")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
+<!-- [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/sanidhyy/finance-dashboard?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/finance-dashboard/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/finance-dashboard/commits/main "Maintenance")
 [![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/finance-dashboard?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/finance-dashboard/branches "GitHub branches")
 [![Github commits](https://flat.badgen.net/github/commits/sanidhyy/finance-dashboard?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/finance-dashboard/commits "Github commits")
 [![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/finance-dashboard?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/finance-dashboard/issues "GitHub issues")
 [![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/finance-dashboard?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/finance-dashboard/pulls "GitHub pull requests")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://appfinance.vercel.app/ "Vercel status")
+[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://appfinance.vercel.app/ "Vercel status") -->
 
 <!-- Table of Contents -->
 <details>
